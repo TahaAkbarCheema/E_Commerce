@@ -1,0 +1,51 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+.active{
+    color: orangered;
+    font-weight: bold;
+}
+
+.my-container{
+   background-color:#E8E8E8;
+   margin-top: 20px;
+   padding-top: 20px;
+}
+
+.price{
+    color: orange;
+}
+
+.image{
+    padding-left: 50px;
+    margin-top: 20px;
+    width:200px;
+    height: 200px;
+    margin-bottom: 67px;
+}
+
+.descrpition{
+    color: black;
+}
+
+.card{
+    margin-top: 20px;
+    height: 550px;
+    
+}
+.navbar{
+    height: 75px;
+}
+.card2{
+    margin-top: 0px;
+    margin-bottom: 100px;
+    height: 680px;
+}
+
+.image2{
+    margin-top: 125px;
+height: 400px;
+}
+
+

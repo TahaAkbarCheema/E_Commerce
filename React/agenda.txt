@@ -1,0 +1,17 @@
+ agenda 
+
+ css attach
+ images call
+
+components
+
+ props value
+ map call function
+ 
+ state
+ css file
+ images
+ form handling
+ conditional handling
+
+ bootstrat - tailwind
